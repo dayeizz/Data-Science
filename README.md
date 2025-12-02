@@ -13,8 +13,8 @@ Setup and configuration for running the code.
 
 1. Download and install python 3.12.x for windows (64 bit). <https://www.python.org/downloads/>.
 2. Create a work folder, `c:\workspace`.
-3. Copy and paste the folder, `Data Science` into work folder.
-4. In the `Data Science` project run the following commands.
+3. Copy and paste the folder, `Data-Science` into work folder.
+4. In the `Data-Science` project run the following commands.
 
     ```ps
         python -m venv venv
@@ -25,7 +25,7 @@ Setup and configuration for running the code.
 5. Press `Ctrl+Shift+P` to open the Command Palette in VSCode.
 6. Search for and select `Python: Select Interpreter`, then choose: `Enter interpreter path...`.
 7. Click `Find.. ` and browse your file system to find a Python interpreter.
-8. Navigate to `c:\workspace\Data Science\venv\Scripts`.
+8. Navigate to `c:\workspace\Data-Science\venv\Scripts`.
 9. Select `python.exe`.
 10. If no kernel selected, click `Select kernel` and select `venv\Scripts\python.exe`.
 
